@@ -1,5 +1,6 @@
 <Project Sdk="Microsoft.NET.Sdk">
 	<PropertyGroup>
+		<RestorePackagesWithLockFile>true</RestorePackagesWithLockFile>
 		<AssemblyTitle>SharpCompress - Pure C# Decompression/Compression</AssemblyTitle>
 		<NeutralLanguage>en-US</NeutralLanguage>
 		<VersionPrefix>0.33.0</VersionPrefix>
