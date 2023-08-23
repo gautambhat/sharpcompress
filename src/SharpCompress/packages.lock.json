@@ -35,7 +35,7 @@
       "System.Text.Encoding.CodePages": {
         "type": "Direct",
         "requested": "[7.0.0, )",
-        "resolved": "7.1.0",
+        "resolved": "7.0.0",
         "contentHash": "LSyCblMpvOe0N3E+8e0skHcrIhgV2huaNcjUUEa8hRtgEAm36aGkRoC8Jxlb6Ra6GSfF29ftduPNywin8XolzQ==",
         "dependencies": {
           "System.Memory": "4.5.5",
